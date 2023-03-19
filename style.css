@@ -1,0 +1,13 @@
+img {
+    margin-top: 5px;
+    height:100%;
+    width:100%;
+    text-align: center;
+}
+h1, h2 {
+    text-align: center;
+}
+.aud {
+    display: block;
+    margin: 0 auto;
+}
